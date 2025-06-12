@@ -7,7 +7,9 @@
 ## 工作流程
 
 1. **数据提取阶段**
-   - `test8.py`: 处理`collect`文件夹中的图片，使用百度OCR提取文字信息
+   - `test8.py`: 处理`collect`文件夹中的图片，使用百度OCR提取文字信息.collect文件夹的图片太多了,
+   - 通过网盘下载：通过网盘分享的文件：collect.zip
+     链接: https://pan.baidu.com/s/1TPFE0lxL4HM4-UPJ6JAZdw 提取码: c5hg
    - 提取官员品级、受封年号、地区等关键信息，存储为`collect.csv`
 
 2. **数据提炼阶段**
