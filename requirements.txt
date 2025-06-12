@@ -1,0 +1,11 @@
+pandas
+numpy
+textwrap
+requests
+base64
+langchain-deepseek
+flask
+werkzeug
+PIL
+Pillow
+opencv-python
